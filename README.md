@@ -19,3 +19,15 @@ Android Jetpack (ViewModel, LiveData)
 Gemini AI API
 
 (Read Gemini documentation for more detailed use of API)
+
+o get started with this project, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/your-username/gemini-ai-summarizer.git
+
+Open the project in Android Studio.
+
+Configure your Gemini AI API key in the BuildConfig file.
+
+Build and run the application on your Android device or emulator.
