@@ -22,9 +22,7 @@ Gemini AI API
 
 o get started with this project, follow these steps:
 
-Clone the repository:
-
-git clone https://github.com/your-username/gemini-ai-summarizer.git
+Clone the repository
 
 Open the project in Android Studio.
 
