@@ -35,7 +35,7 @@ If you want to contribute to the development of Gemini Android Image-to-Text App
    - Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Gemini-Android-imgtotext.git
+   git clone https://github.com/AdityaH007/Gemini-Android-imgtotext.git
    cd Gemini-Android-imgtotext
    ```
 
